@@ -10,4 +10,4 @@
 
 ### Telegram: [shvlv](https://shvlv.ru)
 
-### [Проекты →](https://freelansim.ru/shuvalov_m)
+### [Мои проекты →](https://freelansim.ru/freelancers/shuvalov_m)
