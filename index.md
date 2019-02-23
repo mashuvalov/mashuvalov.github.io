@@ -10,6 +10,6 @@
 
 ### Telegram: [shvlv](https://shvlv.ru)
 
-### Проекты: [Ссылка](https://freelansim.ru/shuvalov_m)
+### [Проекты &#8594;](https://freelansim.ru/shuvalov_m)
 <br>
 г. Ижевск {{ 'now' | date: "%Y" }}
