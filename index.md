@@ -4,6 +4,6 @@
 ### Телефон: [+7 906 819-73-29](https://shvlv.ru)
 ### Skype: [m.a.shuvalov](https://shvlv.ru)
 ### Telegram: [shvlv](https://shvlv.ru)
-### Адрес: Россия, г. Ижевск
+### Адрес: [Россия, г. Ижевск](https://yandex.ru/maps/44/izhevsk/)
 ### [Портфолио](https://freelansim.ru/freelancers/shuvalov_m)
 ### [ВКонтакте](http://vk.com/m.a.shuvalov)
