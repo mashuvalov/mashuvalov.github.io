@@ -1,1 +1,0 @@
-# mashuvalov.github.io
