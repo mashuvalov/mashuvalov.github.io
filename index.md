@@ -5,6 +5,7 @@
 ### Вконтакте: [m.a.shuvalov](http://vk.com/m.a.shuvalov)
 ### Telegram: [shvlv](https://shvlv.ru)
 ### Skype: [m.a.shuvalov](https://shvlv.ru)
-### Портфолио: [https://freelansim.ru/freelancers/shuvalov_m](https://freelansim.ru/freelancers/shuvalov_m)
+<br>
+#### [Проекты](https://freelansim.ru/freelancers/shuvalov_m)
 <br>
 2019 - г. Ижевск
