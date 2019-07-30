@@ -20,3 +20,5 @@
 
 ## Примерная стоимость популярных моделей SSD
 ![SSD Price](https://shvlv.ru/ssd_price.png)
+
+<script src="//code.jivosite.com/widget.js" jv-id="I3EBKDHVvK" async></script>
