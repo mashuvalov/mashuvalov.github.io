@@ -17,8 +17,8 @@
 - Чистка ноутбука от пыли
 - Сборка ноутбука
 
-## Примерная стоимость популярных моделей SSD
-![SSD Price](ssd_price.png)
+### Примерная стоимость популярных моделей SSD - 3 000 ₽
+
 
 <script src="//code.jivosite.com/widget.js" jv-id="I3EBKDHVvK" async></script>
 
