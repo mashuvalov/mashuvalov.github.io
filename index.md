@@ -1,3 +1,2 @@
-> +7 (906) 819-73-29 (Viber, WhatsApp, Telegram)
-
-> m@shvlv.ru
+> +7 (906) 819-73-29
+> m.a.shuvalov@gmail.com
