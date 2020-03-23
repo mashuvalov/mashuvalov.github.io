@@ -1,6 +1,6 @@
 > +7 (906) 819-73-29 (Viber, WhatsApp, Telegram)
 
-> m@shvlv.ru
+> m.a.shuvalov@gmail.com
 
 # Установка SSD
 
