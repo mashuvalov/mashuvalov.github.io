@@ -19,9 +19,6 @@
 
 ### Примерная стоимость популярных моделей SSD накопителей - 3 000 ₽
 
-
-<script src="//code.jivosite.com/widget.js" jv-id="I3EBKDHVvK" async></script>
-
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
