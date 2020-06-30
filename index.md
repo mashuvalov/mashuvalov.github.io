@@ -1,6 +1,6 @@
 > m.a.shuvalov@gmail.com
 
-> https://vk.com/m.a.shuvalov
+> vk.com/m.a.shuvalov
 
 # Установка SSD накопителя
 
