@@ -1,2 +1,2 @@
 # mashuvalov.github.io
-GitHub Pages - Михаил Шувалов
+Михаил Шувалов - GitHub Pages
